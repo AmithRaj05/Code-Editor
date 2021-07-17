@@ -24,7 +24,3 @@ PROJECT FILE DESCRIPTION:
 8. "Editor.js" contains the code that is used to call the libraries required for syntax highlighting.
 9. "FileExplorer.js" contains the code required for creating the file explorer pane.
 10. The "hooks" folder contains a file called "useLocalStorage.js" which stores the code on the broswer. This prevents the code from vanishing even when the page is reloaded.
-
-Link to the React website on GitHub pages: 
-1. The github link to website is: https://amithraj05.github.io/dyte-amith/
-2. CLICK ON THE FILES LISTED UNDER FILE EXPLORER FOR THE EDITOR TO OPEN UP.

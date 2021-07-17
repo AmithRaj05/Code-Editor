@@ -1,9 +1,16 @@
 # dyte-amith
 This repo contains the "Code Editor" react app developed for Dyte, by Amith Raj
 
+LINK TO THE "CODE EDITOR" APPLICATION WEBSITE DEPLOYED ON GITHUB PAGES: 
+1. The github link to website is: https://amithraj05.github.io/dyte-amith/
+2. CLICK ON THE FILES LISTED UNDER FILE EXPLORER FOR THE EDITOR TO OPEN UP.
+
+
 STEPS TO INSTALL AND RUN THE APPLICATION:
 (Assuming Node, NPM, Yarn, GIT, react and other required tools are alerady installed)
-1. Download 
+1. Select master branch, click on CODE button and download the ZIP file of the project
+2. Extract the zip file and open the code on your preferred editor to view the source code.
+3. Run it through your preferred terminal (command prompt, git bash, etc.) using "npm start"
 
 
 PROJECT FILE DESCRIPTION:

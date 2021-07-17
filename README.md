@@ -4,7 +4,7 @@ This repo contains the "Code Editor" react app developed for Dyte, by Amith Raj
 Steps to access files and website:
 1. All the app files are in Master branch
 2. The github link to website is: https://amithraj05.github.io/dyte-amith/
-3. CLICK ON THE FILE LINKS FOR THE EDITOR TO OPEN UP
+3. CLICK ON THE FILES LISTED UNDER FILE EXPLORER FOR THE EDITOR TO OPEN UP
 4. In the master branch, all the files except "src" are default react, git, and node required files
 5. The "src" file has "index.js", "index.css" files and "components" folder
 6. The "index.js" file consists of the default react code

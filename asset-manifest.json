@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dyte-amith/static/css/main.25b158f6.chunk.css",
+    "main.js": "/dyte-amith/static/js/main.edf582b4.chunk.js",
+    "main.js.map": "/dyte-amith/static/js/main.edf582b4.chunk.js.map",
+    "runtime-main.js": "/dyte-amith/static/js/runtime-main.1f5ea996.js",
+    "runtime-main.js.map": "/dyte-amith/static/js/runtime-main.1f5ea996.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/dyte-amith/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.f51240ec.chunk.js": "/dyte-amith/static/js/2.f51240ec.chunk.js",
+    "static/js/2.f51240ec.chunk.js.map": "/dyte-amith/static/js/2.f51240ec.chunk.js.map",
+    "index.html": "/dyte-amith/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/dyte-amith/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.25b158f6.chunk.css.map": "/dyte-amith/static/css/main.25b158f6.chunk.css.map",
+    "static/js/2.f51240ec.chunk.js.LICENSE.txt": "/dyte-amith/static/js/2.f51240ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5ea996.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.f51240ec.chunk.js",
+    "static/css/main.25b158f6.chunk.css",
+    "static/js/main.edf582b4.chunk.js"
+  ]
+}

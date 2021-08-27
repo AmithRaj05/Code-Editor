@@ -1,8 +1,8 @@
-# dyte-amith
-This repo contains the "Code Editor" react app developed for Dyte, by Amith Raj
+# code-editor
+This repo contains the "Code Editor" react app, by Amith Raj
 
 LINK TO THE "CODE EDITOR" APPLICATION WEBSITE DEPLOYED ON GITHUB PAGES: 
-1. The github link to website is: https://amithraj05.github.io/dyte-amith/
+1. The github link to website is: https://amithraj05.github.io/Code=Editor/
 2. CLICK ON THE FILES LISTED UNDER FILE EXPLORER FOR THE EDITOR TO OPEN UP.
 
 
